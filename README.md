@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**GilangFathurahman/GilangFathurahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GilangFathurahman/Webisite Tour Guide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
